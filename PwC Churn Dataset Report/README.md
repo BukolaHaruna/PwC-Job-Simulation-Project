@@ -6,7 +6,7 @@ The management wanted to know more about their customers. They requested a clear
 * Wrote a short email to the engagement partner explaining my findings, and included suggestions as to what needs to be changed.
 
 
-# Key findings along with recommendations to improve customer retention and overall business performance.
+# Key findings & Recommendations to Improve Customer Retention and Overall Business Performance.
 
 Key Findings:
 
