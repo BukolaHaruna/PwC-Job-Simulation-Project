@@ -1,5 +1,5 @@
 # PwC Call Center Project
-During this Power BI job simulation with PwC, I gained hands-on experience, improved my data visualisation and analytical skills, with a real-world business case from a top firm.
+During this Power BI job simulation with PwC, I gained hands-on experience, improved my data visualisation and analytical skills with a real-world business case from a top firm.
 
 In this job simulation, I:
 - Understood the importance of digital transformation and upskilling in today's business landscape.
