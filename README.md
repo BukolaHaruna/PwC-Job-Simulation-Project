@@ -13,4 +13,4 @@ In this job simulation, I:
   - Average speed of answer
   - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-# Please Click on the PwC Churn Dataset Folder to view it's contents
+# Please click on the PwC Churn Dataset Folder to view it's contents
