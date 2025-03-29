@@ -12,7 +12,3 @@ In this job simulation, I:
   - Calls by time.
   - Average speed of answer.
   - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
-
-# 1. Please click on the Diversity & Inclusion Folder to view it's contents.
-# 2. Please click on the PwC Call Center Report to view it's contents.
-# 3. Please click on the PwC Churn Dataset Folder to view it's contents.
