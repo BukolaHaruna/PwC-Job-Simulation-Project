@@ -1,4 +1,4 @@
-# PwC-Call-Center-Project
+# PwC Call Center Project
 During this Power BI job simulation with PwC, I gained hands-on experience, improved my data visualisation and analytical skills, and enhanced my portfolio with a real-world business case from a top firm.
 
 In this job simulation, I:
